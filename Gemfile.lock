@@ -264,6 +264,9 @@ GEM
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2, < 3.0)
       websocket (~> 1.0)
+    simple_form (5.1.0)
+      actionpack (>= 5.2)
+      activemodel (>= 5.2)
     solargraph (0.50.0)
       backport (~> 1.2)
       benchmark
@@ -352,6 +355,7 @@ DEPENDENCIES
   redis (>= 4.0.1)
   ruby-lsp-rails
   selenium-webdriver
+  simple_form (~> 5.1.0)
   solargraph
   sprockets-rails
   standard
