@@ -2,7 +2,7 @@
 
 ## CONTEXT
 
-Tutorial from <https://www.hotrails.dev/turbo-rails> to learn turbo
+Tutorial from <https://www.hotrails.dev/turbo-rails> to learn turbo-rails
 
 ## TEMPLATE
 
